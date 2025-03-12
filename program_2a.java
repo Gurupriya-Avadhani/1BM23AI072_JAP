@@ -27,6 +27,14 @@ public class program_2a {
         Byte boxedByte = primitiveByte;
         System.out.println("Boxed Byte: " + boxedByte);
 
+        short primitiveShort = 50;
+        Short boxedShort = primitiveShort;
+        System.out.println("Boxed Short: " + boxedShort);
+
+        long primitiveLong = 100000L;
+        Long boxedLong = primitiveLong;
+        System.out.println("Boxed Long: " + boxedLong);
+
         // Unboxing for all wrapper objects
         Integer unboxedInt = boxedInt;
         System.out.println("Unboxed Integer: " + unboxedInt);
@@ -45,5 +53,11 @@ public class program_2a {
 
         Byte unboxedByte = boxedByte;
         System.out.println("Unboxed Byte: " + unboxedByte);
+
+        Short unboxedShort = boxedShort;
+        System.out.println("Unboxed Short: " + unboxedShort);
+
+        Long unboxedLong = boxedLong;
+        System.out.println("Unboxed Long: " + unboxedLong);
     }
 }
