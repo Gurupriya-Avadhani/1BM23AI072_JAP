@@ -1,0 +1,10 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=50880" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\1BM23AI072\out\production\1BM23AI072 LAB_3b
+capacity of stringbuffer object sb1: 16
+capacity of stringbuffer object sb2: 21
+Enter a String:MALAYALAM
+Reversed string in uppercase:MALAYALAM
+Enter a string to append: 
+KERALA
+strings after appending:MALAYALAMKERALA
+
+Process finished with exit code 0
