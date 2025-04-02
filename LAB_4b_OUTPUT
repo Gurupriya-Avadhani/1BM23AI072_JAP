@@ -1,0 +1,19 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=51244" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\IdeaProjects\1BM23AI072\out\production\1BM23AI072 LAB_4b
+Enter marks for Student 1: 100
+Enter marks for Student 2: 20
+Enter marks for Student 3: 30
+Enter marks for Student 4: 50
+Enter marks for Student 5: 80
+
+Student Marks:
+Student 1: 100
+Student 2: 20
+Student 3: 30
+Student 4: 50
+Student 5: 80
+
+Summary:
+Highest Marks: 100
+Average Marks: 56.0
+
+Process finished with exit code 0
