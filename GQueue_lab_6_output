@@ -1,0 +1,9 @@
+"C:\Users\gurup\OneDrive\Desktop\3rd SEM LABS\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=64120" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\gurup\IdeaProjects\1BM23AI072_LAB_6\out\production\1BM23AI072_LAB_6 GQueue
+Elements in the queue are:
+10
+20
+30
+Dequeued element: 10
+Queue size: 2
+
+Process finished with exit code 0
