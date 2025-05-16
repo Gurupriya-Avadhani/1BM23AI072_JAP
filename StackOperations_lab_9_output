@@ -1,0 +1,32 @@
+"C:\Users\gurup\OneDrive\Desktop\3rd SEM LABS\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=64332" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\gurup\IdeaProjects\1BM23AI072_LAB_6\out\production\1BM23AI072_LAB_6 StackOperations
+Fixed Length Stack Operations:
+Stack Size: 0
+Stack Size: 1
+Stack Size: 2
+Stack Size: 3
+Pop: 30
+Stack Size: 2
+Pop: 20
+Stack Size: 1
+Is Empty: false
+Stack Size: 1
+Pop: 10
+Stack Size: 0
+Is Empty: true
+
+Dynamic Length Stack Operations:
+Stack Size: 0
+Stack Size: 1
+Stack Size: 2
+Stack Size: 3
+Pop: 30
+Stack Size: 2
+Pop: 20
+Stack Size: 1
+Is Empty: false
+Stack Size: 1
+Pop: 10
+Stack Size: 0
+Is Empty: true
+
+Process finished with exit code 0
